@@ -1,0 +1,16 @@
+test_iter: 500
+test_interval: 500000
+test_initialization: false
+display: 20
+# batch size = 4, total images = 6667
+max_iter: 30000
+
+lr_policy: "fixed"
+base_lr: 0.001
+
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 10000
+snapshot_prefix: "data/jointaircrafts/model/v4_hyvggcpnet/snapshot/ft_all_ablation"
+net: "data/jointaircrafts/model/v4_hyvggcpnet/ft_all_ablation.prototxt"
+# iter_size: 4
