@@ -3,7 +3,7 @@ The repository is for the paper "VegFru: A Domain-Specific Dataset for Fine-grai
 
 Download Links: [[Paper]](http://home.ustc.edu.cn/~saihui/project/vegfru/iccv17_vegfru.pdf) [[Supplementary Meterial]](http://home.ustc.edu.cn/~saihui/project/vegfru/iccv17_sup_vegfru.pdf) [[Project Page]](http://home.ustc.edu.cn/~saihui/project/vegfru/vegfru_project.html) [[Download VegFru Dataset]](http://pan.baidu.com/s/1boSNcV9)
  
-The VegFru dataset is available at [here](http://pan.baidu.com/s/1boSNcV9) and this code is for the implementation of HybridNet proposed in the paper.
+The VegFru dataset is available at [here](http://pan.baidu.com/s/1boSNcV9) and this code is for the implementation of HybridNet.
 ```
 ./caffe-hybridnet: modified from Caffe ([https://github.com/BVLC/caffe](https://github.com/BVLC/caffe))
 ./hybridnet-dataset: the prototxt defining the models for each dataset (FGVC-Aircrafts)
