@@ -1,7 +1,7 @@
 # VegFru
 The repository is for the paper "VegFru: A Domain-Specific Dataset for Fine-grained Visual Categorization".
 
-Download Links: [[Paper]](http://home.ustc.edu.cn/~saihui/project/vegfru/iccv17_vegfru.pdf) [[Supplementary Material]](http://home.ustc.edu.cn/~saihui/project/vegfru/iccv17_sup_vegfru.pdf) [[Project Page]](http://home.ustc.edu.cn/~saihui/project/vegfru/vegfru_project.html) [[Download VegFru Dataset]](http://pan.baidu.com/s/1boSNcV9)
+Download Links: [[Paper]](http://home.ustc.edu.cn/~saihui/project/vegfru/iccv17_vegfru.pdf) [[Supplementary Material]](http://home.ustc.edu.cn/~saihui/project/vegfru/iccv17_sup_vegfru.pdf) [[Project Page]](http://vim.ustc.edu.cn/?product=vegfru) [[Download VegFru Dataset]](http://pan.baidu.com/s/1boSNcV9)
  
 The VegFru dataset is available at [here](http://pan.baidu.com/s/1boSNcV9) and this code is for the implementation of HybridNet.
 ```
